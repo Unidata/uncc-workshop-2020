@@ -1,5 +1,6 @@
  name: uncc-workshop-2020
  channels:
+   - conda-forge/label/metpy_rc
    - conda-forge
  dependencies:
    - python>=3.6,<3.8
