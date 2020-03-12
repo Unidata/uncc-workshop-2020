@@ -9,7 +9,7 @@ Where: UNC Charlotte, McEniry 201
 |  Time | Section                                                                                                                                | Presenter |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------|-----------|
 |  8:30 | Introductions and overview                                                                                                             | All       |
-|  9:00 | Hands on demo of notebooks                                                                                                             | Julien    |
+|  9:00 | Hands on demo of notebooks                                                                                                             | Ryan      |
 | 10:00 | Break                                                                                                                                  |           |
 | 10:30 | Hands on demo of MetPy                                                                                                                 | Ryan      |
 | 11:30 | Break into disciplinary groups (as appropriate, based on participants) and brainstorm ideas of how to incorporate tools into classroom |           |
